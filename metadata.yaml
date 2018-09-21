@@ -1,6 +1,9 @@
 _repo: Canada-1535-Present-Day_53563
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 'Canada: 1535-1913'
+covers:
+- cover_type: archival
+  image_path: 53563-h/images/cover.jpg
 creator:
   author:
     agent_name: Munro, James
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '47437'
     url: http://www.gutenberg.org/2009/agents/47437
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53563#Canada-1535-Present-Day
 gutenberg_issued: '2016-11-20'
 gutenberg_type: Text
 identifiers:
