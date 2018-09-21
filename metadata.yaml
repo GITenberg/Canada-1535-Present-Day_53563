@@ -1,0 +1,25 @@
+_repo: Canada-1535-Present-Day_53563
+_version: 0.0.1
+alternative_title: 'Canada: 1535-1913'
+creator:
+  author:
+    agent_name: Munro, James
+    deathdate: 1924
+    gutenberg_agent_id: '47437'
+    url: http://www.gutenberg.org/2009/agents/47437
+description: ''
+gutenberg_issued: '2016-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53563'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Sources'
+- !lcsh 'Canada -- History -- Sources'
+- !lcc 'F1001'
+- GITenberg
+title: Canada (1535-Present Day)
+url: http://www.gutenberg.org/ebooks/53563
